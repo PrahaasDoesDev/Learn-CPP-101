@@ -452,9 +452,9 @@ Don't mix `cin`/`cout` with `scanf`/`printf` after this.
 
 # C++ Execution Model & Memory Model
 
-![](../../Images/Chapter%201/cpp_compile_source_to_instructions.png)
+![](../Images/Chapter%201/cpp_compile_source_to_instructions.png)
 
-![](../../Images/Chapter%201/cpp_memory_model_stack_frames.png)
+![](../Images/Chapter%201/cpp_memory_model_stack_frames.png)
 
 
 This section explain what happens to a C++ program from source file to exit, using this example:
