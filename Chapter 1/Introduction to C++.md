@@ -949,6 +949,7 @@ This links to the execution model notes:
 | Runtime | stack, heap, objects follow core rules | library code runs like any other code on your stack and heap |
 
 ---
+ 
 
 ## Summary
 
